@@ -1,0 +1,238 @@
+---
+- description: Test case for faq1.json
+  golden_dialog: faq1.json
+  id: ab508b96-71db-48aa-ae43-5a40b36c2f3a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: our telephone nine has been disconnected
+  - utterance: '[HANG UP]'
+- description: Test case for faq10.json
+  golden_dialog: faq10.json
+  id: 3d309480-66e7-4576-ba31-223caa68ac12
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: im returning your call
+  - utterance: '[HANG UP]'
+- description: Test case for faq11.json
+  golden_dialog: faq11.json
+  id: e73ac30a-5eb6-4617-ad98-791cdfba7354
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: trying to confirm tracking number eight nine for one five zero zero
+      zero
+  - utterance: '[HANG UP]'
+- description: Test case for faq12.json
+  golden_dialog: faq12.json
+  id: 86ce9f87-1767-4090-b692-ef92447f60a7
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: local office
+  - utterance: '[HANG UP]'
+- description: Test case for faq13.json
+  golden_dialog: faq13.json
+  id: f5c650ed-42a5-4438-bbde-0e8e5f671c32
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to change my address
+  - utterance: '[HANG UP]'
+- description: Test case for faq14.json
+  golden_dialog: faq14.json
+  id: 7159d437-c1fb-44a5-ae94-b6934717b9fe
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: personal identification number
+  - utterance: '[HANG UP]'
+- description: Test case for faq15.json
+  golden_dialog: faq15.json
+  id: 084ee7b7-638f-48f4-8c8b-af5e4a5b7b50
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: calling for a late close
+  - utterance: '[HANG UP]'
+- description: Test case for faq16.json
+  golden_dialog: faq16.json
+  id: e5b0ee22-8aa9-4792-950c-e33cb23fc4dc
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: procedure pages
+  - utterance: '[HANG UP]'
+- description: Test case for faq17.json
+  golden_dialog: faq17.json
+  id: c0dd3065-ad02-4518-8767-e22a004f0930
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: expire user
+  - utterance: '[HANG UP]'
+- description: Test case for faq18.json
+  golden_dialog: faq18.json
+  id: f3a4c144-d41b-4cf1-94ad-5178012c3189
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: assign code used to open and close the system
+  - utterance: '[HANG UP]'
+- description: Test case for faq19.json
+  golden_dialog: faq19.json
+  id: 4b71c1e5-6caa-47b7-8acb-3cf4fec3c255
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: nurse call inspection
+  - utterance: '[HANG UP]'
+- description: Test case for faq2.json
+  golden_dialog: faq2.json
+  id: 102f4886-e088-4ba7-b1c9-a33b5df63f67
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: fire alarm testing
+  - utterance: 'yes'
+  - utterance: '[HANG UP]'
+- description: Test case for faq20.json
+  golden_dialog: faq20.json
+  id: 4e668958-e38c-4621-86b2-3ebeb01e8a13
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+- description: Test case for faq21.json
+  golden_dialog: faq21.json
+  id: b2055a3a-54a6-4e48-a7fa-f3fe2e12f52c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: service
+  - utterance: existing
+  - utterance: '[HANG UP]'
+- description: Test case for faq22.json
+  golden_dialog: faq22.json
+  id: aa277139-df8f-45af-a677-21b5ac17e243
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to setup an appointment for all my sites on the acelero learning
+      to have all our burglar alarms checked out to make sure they are working properly
+  - utterance: '[HANG UP]'
+- description: Test case for faq23.json
+  golden_dialog: faq23.json
+  id: c6261145-6b96-4b45-b322-4a38e52c04d8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: close the ticket
+  - utterance: '[HANG UP]'
+- description: Test case for faq24.json
+  golden_dialog: faq24.json
+  id: 92e68424-3e1d-4c9c-a42f-2e533725bebe
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: add new services
+  - utterance: ''
+- description: Test case for faq25.json
+  golden_dialog: faq25.json
+  id: f1f28288-4da2-4a29-9b5b-bfa5cce1bb62
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: cancellation department
+  - utterance: '[HANG UP]'
+- description: Test case for faq26.json
+  golden_dialog: faq26.json
+  id: cd893d98-301b-44f5-84d1-652df1924315
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: activation
+  - utterance: '[HANG UP]'
+- description: Test case for faq3.json
+  golden_dialog: faq3.json
+  id: 6ebec920-2cc1-49ee-9306-2d8322f8144e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: voice response terminal
+  - utterance: ''
+- description: Test case for faq4.json
+  golden_dialog: faq4.json
+  id: 833fcb51-740b-4024-aefa-80a9338fdffc
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need system put in test
+  - utterance: '[HANG UP]'
+- description: Test case for faq5.json
+  golden_dialog: faq5.json
+  id: 8b39c039-e452-44ce-893a-75fc7b27e3c7
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: put fire panel back online
+  - utterance: '[HANG UP]'
+- description: Test case for faq6.json
+  golden_dialog: faq6.json
+  id: 052c9473-58bf-4a9c-87fd-4a617c6d3355
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: alarm information
+  - utterance: monitoring
+  - utterance: '[HANG UP]'
+- description: Test case for faq7.json
+  golden_dialog: faq7.json
+  id: 3e37d462-0701-4081-9cf8-e50cb23d07e5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need to get the alarms for the past six months
+  - utterance: '[HANG UP]'
+- description: Test case for faq8.json
+  golden_dialog: faq8.json
+  id: 39f13aa6-735f-4d75-bee7-262ff60418d0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: yes i want to review my billing
+  - utterance: ''
+- description: Test case for faq9.json
+  golden_dialog: faq9.json
+  id: b666ec1d-01fa-4277-8d78-2a8cc3809be9
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: pay a bill
+  - utterance: '[HANG UP]'
