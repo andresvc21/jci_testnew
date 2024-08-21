@@ -1,0 +1,16 @@
+diamant:
+    app: jci_dev@SND_JCI_dev
+miniapp_id: 2c2fbff8-fe47-4431-ab9e-99ddc2085c62.SND_JCI_dev.Flow.jci_dev@SND_JCI_dev.jci_dev
+assertions:
+    prompt: true
+    intent: true
+    end_type: true
+    grammar: true
+    action_name: true
+    target_name: true
+    outbound_attached_data: true
+    annotation: false
+    dialog_events: false
+    interpretation: false
+    desination_uri: false
+    prompt_threshold: 0.8
