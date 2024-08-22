@@ -514,3 +514,577 @@
   - utterance: ''
   - utterance: 'yes'
   - utterance: ''
+- description: Test case for intentplusss02.json
+  golden_dialog: intentplusss02.json
+  id: 22bb1059-50da-409e-ab3f-816e534b1420
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: im returning your call
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss106.json
+  golden_dialog: intentplusss106.json
+  id: fe4de6b9-e3d0-47a7-a87a-d2ec94a0ee91
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss113.json
+  golden_dialog: intentplusss113.json
+  id: c5f3ddfe-b8cb-4a75-9613-0f169a673d9b
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: service
+  - utterance: existing
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss12f.json
+  golden_dialog: intentplusss12f.json
+  id: d2bd793c-c926-4137-8c4a-bf0a46363141
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to setup an appointment for all my sites on the acelero learning
+      to have all our burglar alarms checked out to make sure they are working properly
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss138.json
+  golden_dialog: intentplusss138.json
+  id: 7809d4ba-0d53-42d1-a43f-687a030d37d8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: close the ticket
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss153.json
+  golden_dialog: intentplusss153.json
+  id: 09ec5a31-3fa6-4a21-833f-97052d8a1cbf
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: add new services
+  - utterance: ''
+- description: Test case for intentplusss165.json
+  golden_dialog: intentplusss165.json
+  id: 263fb02a-7333-4785-bc1f-af53ee6612b3
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: activation
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss17d.json
+  golden_dialog: intentplusss17d.json
+  id: 727792a9-0f5e-4949-bdf6-47732703c49f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: voice response terminal
+  - utterance: ''
+- description: Test case for intentplusss189.json
+  golden_dialog: intentplusss189.json
+  id: 046ad4de-4cf6-4858-af92-94bea92701e1
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need system put in test
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss19a.json
+  golden_dialog: intentplusss19a.json
+  id: df90d833-a7c2-4a8a-8744-d69ebd0e9daf
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: put fire panel back online
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss1e.json
+  golden_dialog: intentplusss1e.json
+  id: adff0bab-69fc-4daa-83aa-b6fc4a1fcde1
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: trying to confirm tracking number eight nine for one five zero zero
+      zero
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss204.json
+  golden_dialog: intentplusss204.json
+  id: c77ae83b-113a-434d-a083-5f49f6f8ad20
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: alarm information
+  - utterance: monitoring
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss216.json
+  golden_dialog: intentplusss216.json
+  id: 6d7a553d-de18-4b60-9999-9a65ed0645f7
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need to get the alarms for the past six months
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss22.json
+  golden_dialog: intentplusss22.json
+  id: 800e39e7-e98c-4d3c-98e1-2202bea6b95c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: local office
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss22e.json
+  golden_dialog: intentplusss22e.json
+  id: e19dc671-2ed3-459a-bd59-ad34f647d824
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: yes i want to review my billing
+  - utterance: ''
+- description: Test case for intentplusss23e.json
+  golden_dialog: intentplusss23e.json
+  id: a8d74d70-b2a8-483f-89ea-3e8e03f5f17e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: pay a bill
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss242.json
+  golden_dialog: intentplusss242.json
+  id: c6120aa5-f923-432c-9b50-c12abbecff8e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2100
+  - utterance: ''
+- description: Test case for intentplusss258.json
+  golden_dialog: intentplusss258.json
+  id: 904569e2-ffb9-4caf-b06f-c9d3c14edba6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2101
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: today 11 pm
+  - utterance: tomorrow 8 am
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for intentplusss262.json
+  golden_dialog: intentplusss262.json
+  id: ada3bad1-cc8b-40c4-8ac0-f42b8294784f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2108
+  - utterance: ''
+- description: Test case for intentplusss272.json
+  golden_dialog: intentplusss272.json
+  id: a2574af3-3230-498c-828d-f0a23ae8548a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2109
+  - utterance: ''
+- description: Test case for intentplusss28e.json
+  golden_dialog: intentplusss28e.json
+  id: 8d294ebf-8746-4cdd-b4ce-a8ebb767d46f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place a test on
+  - utterance: ivrtst2110
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss291.json
+  golden_dialog: intentplusss291.json
+  id: 9589bf2d-b1c0-42bc-b566-f89553a6eb73
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place system test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: w i l m a
+  - utterance: 'yes'
+  - utterance: today 11 pm
+  - utterance: tomorrow 8 am
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for intentplusss302.json
+  golden_dialog: intentplusss302.json
+  id: b23f3c99-49ec-4bd2-a373-e70e4d0300b8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: system test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: agent
+  - utterance: agent please
+  - utterance: agent
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss315.json
+  golden_dialog: intentplusss315.json
+  id: 6b8b28a7-035d-43a6-b0ff-a73e5cc371e9
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: today 11 pm
+  - utterance: tomorrow 8 am
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for intentplusss32d.json
+  golden_dialog: intentplusss32d.json
+  id: ce74c98f-929c-43ab-99f6-d01c346560f4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: system test on
+  - utterance: ivrtst2110
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss33c.json
+  golden_dialog: intentplusss33c.json
+  id: a19c4aac-ec70-4566-a8e4-60d08501ae7c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss346.json
+  golden_dialog: intentplusss346.json
+  id: b729f573-d259-47da-9219-0cab46d58e16
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: sytem test on
+  - utterance: ivrtst2110
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss355.json
+  golden_dialog: intentplusss355.json
+  id: eec19361-29ab-47a8-a55e-368d64e20862
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: agent
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss369.json
+  golden_dialog: intentplusss369.json
+  id: a8a32b4a-4ba6-451e-a23e-c597c13dfa6c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test one
+  - utterance: ivrtst2110
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: agent
+  - utterance: agent please
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss37f.json
+  golden_dialog: intentplusss37f.json
+  id: 08574b6f-0c77-49ce-86b3-7b1bc2ba8d21
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place a test on
+  - utterance: ivrtst2110
+  - utterance: agent
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss38f.json
+  golden_dialog: intentplusss38f.json
+  id: 93f62bc7-b841-4211-ba8d-4ef2e0a926c2
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: test on
+  - utterance: ivrtst2110
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: agent
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss3c.json
+  golden_dialog: intentplusss3c.json
+  id: 6839d222-5be2-4c69-af9e-e46e39c75fd3
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to change my address
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss40b.json
+  golden_dialog: intentplusss40b.json
+  id: 2fa84a20-d718-48f5-bb81-f22e934d2e99
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for intentplusss41d.json
+  golden_dialog: intentplusss41d.json
+  id: 26edee11-aca6-4844-b294-d455734d9b8f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2101
+  - utterance: 'yes'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: w i l m a
+  - utterance: 'yes'
+  - utterance: today
+  - utterance: tomorrow
+  - utterance: 22 august 2024
+  - utterance: 22 august 2024 10 am
+  - utterance: 22 august 2024 11 am
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for intentplusss434.json
+  golden_dialog: intentplusss434.json
+  id: e78c2317-105c-402b-9e72-18b0d3d6e45a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for intentplusss44e.json
+  golden_dialog: intentplusss44e.json
+  id: 2c09ab0b-32b2-41f1-9738-b93c290bfd60
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss457.json
+  golden_dialog: intentplusss457.json
+  id: 10c37d54-afd1-45e6-9f12-6a76e563be7b
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss46e.json
+  golden_dialog: intentplusss46e.json
+  id: 8ec17c47-3945-417d-8f61-462fbab4f204
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss47e.json
+  golden_dialog: intentplusss47e.json
+  id: a1943952-0ee3-4ba5-ab84-87e2c31f6d3b
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: agent
+  - utterance: agent please
+  - utterance: agent
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss485.json
+  golden_dialog: intentplusss485.json
+  id: 69f2da20-f351-4eeb-afcc-b327f198b6d0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: marc 7 2 pm
+  - utterance: march 7 2 pm
+  - utterance: 7 of march at 2 pm
+  - utterance: 8 of march at 3 pm
+  - utterance: agent please
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss495.json
+  golden_dialog: intentplusss495.json
+  id: 5b7af8ea-c4ff-47fc-bf4c-8ee7b6d3b680
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: tomorrow 8 am
+  - utterance: agent please
+  - utterance: agent please
+  - utterance: agent
+  - utterance: ''
+  - utterance: ''
+- description: Test case for intentplusss506.json
+  golden_dialog: intentplusss506.json
+  id: 307f489b-d0d9-47d1-b3ff-7d55bb2d47c2
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: place test on
+  - utterance: ivrtst2110
+  - utterance: 'yes'
+  - utterance: b a r n e y
+  - utterance: 'yes'
+  - utterance: tomorrow 8 am
+  - utterance: tomorrow 7 am
+  - utterance: andres villegas [NO MATCH]
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for intentplusss56.json
+  golden_dialog: intentplusss56.json
+  id: e48b2e2f-2d87-478b-9b79-1e72ee6348de
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: calling for a late close
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss71.json
+  golden_dialog: intentplusss71.json
+  id: 7e4a5c83-0aa2-4b89-ae15-0449dc9d4a57
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: expire user
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss8f.json
+  golden_dialog: intentplusss8f.json
+  id: e94876ff-e37b-4f68-9622-2dce9030ebf3
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: nurse call inspection
+  - utterance: '[HANG UP]'
+- description: Test case for intentplusss9f.json
+  golden_dialog: intentplusss9f.json
+  id: e5ad8090-0dcc-4a69-833c-61b3066b5109
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: fire alarm testing
+  - utterance: 'yes'
+  - utterance: '[HANG UP]'
